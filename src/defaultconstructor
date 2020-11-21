@@ -1,0 +1,11 @@
+If you do not create any constructors, 
+the Java compiler will automatically create a no-argument constructor during run-time. 
+This constructor is known as the default constructor. 
+The default constructor initializes any uninitialized instance variables 
+with default values.
+
+class Test {
+    Test() {
+        // constructor body
+    }
+}

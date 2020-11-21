@@ -1,0 +1,6 @@
+A Java class file is a file containing Java byte code and having .
+class extension that can be executed by JVM.
+ A Java class file is created by a Java compiler from .java files as a result of successful
+ compilation.As we know that a single Java programming language source file (or we can say 
+ .java file) may contain one class or more than one class. So if a .java file has 
+  more than one class then each class will compile into a separate class files.

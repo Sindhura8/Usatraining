@@ -1,0 +1,5 @@
+String Subsequence:- This method returns a new character sequence that is 
+a subsequence of this sequence.
+
+String="hello";
+CharSequence subSequence1 = string.subSequence(1, 4);
